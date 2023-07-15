@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aigerim</h1>
 <h3 align="center">A passionate and enthusiastic iOS developer from Kazakhstan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abitoffka" alt="abitoffka" /></a> </p>
-
 - 🔭 I’m currently working on [kurs.kz](https://github.com/startmobile-kz/kurs.kz)
 
 - 📫 How to reach me **aigerim.abitayevaa@gmail.com**
