@@ -7,7 +7,7 @@
 
 - 📄 My [Resume](https://docs.google.com/document/d/1rkOjCichGkrR3Uxp0ArlFr3TC3MNe6H5bw8HIe-KlBc/edit?usp=sharing)
 
-- ⚡ Fun fact **I love swimming🏊🏻‍♀️, drawing🎨, and playing table tennis🏓**
+- ⚡ Fun facts: I love swimming🏊🏻‍♀️, drawing🎨, and playing table tennis🏓
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
