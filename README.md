@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [kurs.kz](https://github.com/startmobile-kz/kurs.kz)
 
-- 📫 How to reach me **aigerim.abitayevaa@gmail.com**
+- 📫 Reach me via **aigerim.abitayeva@nu.edu.kz**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rkOjCichGkrR3Uxp0ArlFr3TC3MNe6H5bw8HIe-KlBc/edit?usp=sharing](https://docs.google.com/document/d/1rkOjCichGkrR3Uxp0ArlFr3TC3MNe6H5bw8HIe-KlBc/edit?usp=sharing)
+- 📄 My [Resume](https://docs.google.com/document/d/1rkOjCichGkrR3Uxp0ArlFr3TC3MNe6H5bw8HIe-KlBc/edit?usp=sharing)
 
 - ⚡ Fun fact **I love swimming🏊🏻‍♀️, drawing🎨, and playing table tennis🏓**
 
