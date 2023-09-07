@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [kurs.kz](https://github.com/startmobile-kz/kurs.kz)<br><br> 📫 Reach me via **aigerim.abitayeva@nu.edu.kz**<br><br> 📄 My [Resume](https://docs.google.com/document/d/1rkOjCichGkrR3Uxp0ArlFr3TC3MNe6H5bw8HIe-KlBc/edit?usp=sharing)<br><br> ⚡ Fun facts: I love swimming🏊🏻‍♀️, drawing🎨, and playing table tennis🏓<br>
+📫 Reach me via **aigerim.abitayeva@nu.edu.kz**<br><br>
 
 
 ## 🌐 Socials:
